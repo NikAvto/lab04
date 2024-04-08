@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello_world.dir/home/osboxes/NikAvto/workspace/reports/lab03/hello_world_application/hello_world.cpp.o -o hello_world  -lformatter_ex 

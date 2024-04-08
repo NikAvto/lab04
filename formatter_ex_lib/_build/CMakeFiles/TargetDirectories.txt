@@ -1,0 +1,4 @@
+/home/osboxes/NikAvto/workspace/reports/lab03/formatter_ex_lib/_build/CMakeFiles/formatter.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/formatter_ex_lib/_build/CMakeFiles/hello_world.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/home/osboxes/NikAvto/workspace/reports/lab03/solver_application/_build/CMakeFiles/formatter.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/solver_application/_build/CMakeFiles/solver.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/solver_application/_build/CMakeFiles/formatter_ex.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/solver_application/_build/CMakeFiles/solver_app.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/solver_application/_build/CMakeFiles/edit_cache.dir
+/home/osboxes/NikAvto/workspace/reports/lab03/solver_application/_build/CMakeFiles/rebuild_cache.dir
