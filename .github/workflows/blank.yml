@@ -1,0 +1,10 @@
+name: blank
+run-name: NikAvto is running lab04
+on: [push]
+jobs:
+  container-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: test
+        run: ./.github/workflows/test1.sh
